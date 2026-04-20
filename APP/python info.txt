@@ -1,0 +1,4 @@
+com o uso do radom_str = string.ascii_lleter + string.digits + string.ascii_uppercase
+ascii_lleter = todas as letras em Maiusculo & Minusculo
+digits = todos os numeros
+ascii_uppercase = so letras Maiusculo
